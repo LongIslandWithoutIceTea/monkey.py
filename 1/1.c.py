@@ -12,9 +12,7 @@ def print_on_terminal():
     ## TODO:
     # write your print function here
     # Hint: you only need one line of code to do this,
-    #       don't for get to indent the line using tab
-
-    print('Hello Queeny!')
+    #       don't forget to indent the line using tab
 
     return
 
